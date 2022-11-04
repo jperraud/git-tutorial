@@ -1,0 +1,4 @@
+- Install Sourcetree and connect to your Github-Account.
+- Clone this repository.
+- Stay on master branch, locally answer the questions in "questions.txt". Commit and push your changes to github.
+- Check the changes on github.
