@@ -1,0 +1,5 @@
+- Locally make a new branch called "feature/new_script"
+- Add a new file ("script.txt") and include some random text (repo is currently public so nothing useful but rather lorem lipsum)
+- Locally commit changes
+- Push yur new branch to github
+- Create a pull request for your branch to main, saying what you changed and wait for me to merge it.
