@@ -1,0 +1,9 @@
+- Locally go back to the main branch.
+- Make sure it is up to date with the merging that happened on the server (probably you need to pull the newest changes again).
+- Make two new branches locally, make following changes:
+    - branch a) remove your answers from questions.txt
+    - branch b) rewrite all your answers in capital letters
+- Commit and push both branches.
+- Create a pull request for both branches.
+- Merge on github first branch a and then the other.
+- Try to understand the conflicts that happen from this workflow and resolve it (you want the answers to be in capital letters).
